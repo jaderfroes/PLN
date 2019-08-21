@@ -16,3 +16,6 @@ if(flag_telefone):
     print("telefone válido")
 else:
     print("telefone não aprovado")
+    
+# \([0-9]{2}\) \d{4}-\d{4} telefone correção
+# [a-z]+@\w{3}\.\w{5}\.\w{3}.\w{2} correção email do inf
